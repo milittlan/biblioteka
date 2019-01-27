@@ -1,0 +1,68 @@
+body {
+    color:#a0844d;
+}
+
+header,
+footer {
+    padding: 20px 0;
+    background: #a0844d;
+    color:#fff;
+}
+
+.logo {
+    width: auto;
+    max-height: 150px;
+}
+
+.top-menu {
+    background:#755f36;
+}
+
+.top-menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+.top-menu li {
+    list-style: none;
+    float: right;
+}
+.top-menu li a {
+    color:#fff;
+    line-height:55px;
+}
+
+.main-menu {
+    background: #755f34;
+    color:#fff;
+}
+
+.main-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.main-menu ul li {
+    float: left;
+}
+
+.main-menu ul li a {
+    color:#fff;
+    padding: 15px 25px;
+    display: block;
+}
+
+.main-menu ul li a:hover {
+    background:#a0844d;
+    text-decoration: none;
+}
+
+label {
+    display: block;
+}
+
+form .field {
+    padding-bottom: 25px;
+}

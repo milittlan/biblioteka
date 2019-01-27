@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a3f874ea-c3f0-4555-aff3-7c9c0b5aea01" name="biblioteka" url="http://5.189.143.57">
+        <fileTransfer host="5.189.143.57" port="21" rootFolder="/public_html/biblioteka">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
